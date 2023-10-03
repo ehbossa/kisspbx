@@ -47,7 +47,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
-			<version>4.0.1.Final</version>
+			<version>5.1.17.Final</version>
 		</dependency>
 		<dependency>
 		    <groupId>org.hibernate</groupId>
@@ -62,7 +62,7 @@
 		<dependency>
 		    <groupId>org.asteriskjava</groupId>
 		    <artifactId>asterisk-java</artifactId>
-		    <version>1.0.0-final</version>
+		    <version>3.16.0</version>
 		</dependency>
 		<dependency>
 		    <groupId>com.google.code.gson</groupId>
